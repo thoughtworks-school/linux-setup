@@ -1,6 +1,6 @@
 # 目录
 
-- [人人都会用 Linux](linux/index.md)
+- [人人都能用 Linux](linux/index.md)
   - [Linux 简介](linux/introduction.md)
   - [Linux 安装与设置](linux/install-and-setup.md)
     - [安装方法](linux/install.md)
