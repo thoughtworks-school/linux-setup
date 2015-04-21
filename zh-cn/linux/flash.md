@@ -1,6 +1,6 @@
 # 安装 Flash 插件
 
-## Linux Mint
+## Linux Mint & Deepin
 
 已预置，无需单独安装。
 
@@ -10,4 +10,3 @@
 $ sudo apt-get update
 $ sudo apt-get install flashplugin-installer
 ```
-

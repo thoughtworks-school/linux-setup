@@ -21,3 +21,7 @@
 
 - [Linux Mint 17.1](linuxmint.md)
 - [Ubuntu 14.10](ubuntu.md)
+
+另外，由于国产Linux发行版[Deepin](http://www.deepin.org/)在我们的测试和使用过程中有着非常优异的表现和极高的易用性，对于动手能力强并且有一定Linux经验的朋友也可考虑尝试使用：
+
+- [Deepin 2014.2](deepin.md)

@@ -1,6 +1,6 @@
 # 安装 Skype
 
-## Linux Mint
+## Linux Mint & Deepin
 
 ```bash
 $ sudo apt-get update

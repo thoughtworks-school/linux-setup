@@ -1,6 +1,6 @@
 # 安装 Git
 
-## Linux Mint & Ubuntu
+## Linux Mint & Ubuntu & Deepin
 
 ```bash
 $ sudo add-apt-repository ppa:git-core/ppa

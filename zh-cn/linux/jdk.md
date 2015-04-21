@@ -1,7 +1,6 @@
 # 安装 Oracle JDK 8
 
-## Linux Mint & Ubuntu
-
+## Linux Mint & Ubuntu & Deepin
 
 ```bash
 $ sudo add-apt-repository ppa:webupd8team/java

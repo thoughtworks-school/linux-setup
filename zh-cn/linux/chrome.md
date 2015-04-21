@@ -20,3 +20,7 @@ $ sudo sh -c 'echo "deb http://dl.google.com/linux/chrome/deb/ stable main" >> /
 $ sudo apt-get update
 $ sudo apt-get install google-chrome-stable
 ```
+
+## Deepin
+
+已预置，但版本更新相对滞后一点，如需要保持版本最新，请参考上方的安装方法。

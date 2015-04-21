@@ -11,3 +11,10 @@ http://www.xmind.net/download/linux/
 ```bash
 $ sudo apt-get install -f
 ```
+
+## Deepin
+
+```bash
+$ sudo apt-get update
+$ sudo apt-get install xmind
+```

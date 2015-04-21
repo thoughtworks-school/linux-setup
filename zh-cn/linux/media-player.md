@@ -33,3 +33,7 @@ $ sudo add-apt-repository ppa:rvm/smplayer
 $ sudo apt-get update
 $ sudo apt-get install smplayer smtube smplayer-themes smplayer-skins
 ```
+
+## Deepin
+
+内置的 Deepin 播放器非常强大，可以无需使用上述播放器。

@@ -1,6 +1,6 @@
 # 安装 cURL
 
-## Linux Mint & Ubuntu
+## Linux Mint & Ubuntu & Deepin
 
 ```bash
 $ sudo apt-get update
