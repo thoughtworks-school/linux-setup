@@ -3,7 +3,7 @@
 ## Linux Mint & Ubuntu
 
 ```bash
-$ sudo add-apt-repository ppa:jerzy-kozera/zeal-ppa
+$ sudo apt-add-repository ppa:zeal-developers/ppa
 $ sudo apt-get update
 $ sudo apt-get install zeal
 ```
