@@ -8,6 +8,6 @@
 
 https://www.jetbrains.com/idea/download/
 
-### 安装 IntelliJ IDEA Ultimate Edition 编辑器插件
+### 在插件管理器中安装 IntelliJ IDEA Ultimate Edition 编辑器插件
 - .ignore
 - NodeJS

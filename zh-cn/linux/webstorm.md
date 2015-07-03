@@ -8,5 +8,5 @@
 
 https://www.jetbrains.com/webstorm/
 
-### 安装 WebStorm 编辑器插件
+### 在插件管理器中安装 WebStorm 编辑器插件
 - .ignore
