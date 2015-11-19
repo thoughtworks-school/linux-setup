@@ -2,16 +2,9 @@
 
 ## Linux Mint & Ubuntu
 
-### 安装包安装（用于无法翻墙的环境）
+### 安装包安装（需要翻墙）
 
-[百度网盘下载](http://pan.baidu.com/s/1eQtpiEY)
-
-安装后将 Chrome 升级至最新版：
-
-```bash
-$ sudo apt-get update
-$ sudo apt-get upgrade google-chrome-stable
-```
+[官网下载](https://www.google.com/chrome/)
 
 ### 命令行安装（需要翻墙）
 

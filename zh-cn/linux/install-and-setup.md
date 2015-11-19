@@ -20,7 +20,7 @@
 由于Linux的各个发行版差异较大，经过反复测试和使用经验，推荐根据个人电脑实际表现测试安装以下两种Linux发行版，并选择性能及稳定性最好的一个使用（根据大量的测试和实际使用结果，我们优先推荐使用 Linux Mint）：
 
 - [Linux Mint 17.2](linuxmint.md)
-- [Ubuntu 15.04](ubuntu.md)
+- [Ubuntu 15.10](ubuntu.md)
 
 另外，由于国产Linux发行版[Deepin](http://www.deepin.org/)在我们的测试和使用过程中有着非常优异的表现和极高的易用性，对于动手能力强并且有一定Linux经验的朋友也可考虑尝试使用：
 
