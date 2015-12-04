@@ -40,6 +40,7 @@
 
 #### Windows 10 / UEFI 引导 / 其它各种疑难杂症
 
-0. [阅读此文章](http://www.zhihu.com/question/34611974/answer/60032471)
-0. 寻找Linux高手
-0. 发挥自己的折腾精神，自己想办法
+0. [先阅读此文章](http://www.zhihu.com/question/34611974/answer/60032471)
+0. [再阅读此文章](http://forum.ubuntu.org.cn/viewtopic.php?f=77&t=467746)
+0. 如果想不明白，请立刻寻找Linux高手
+0. 如果能想明白，请发挥自己的折腾精神
