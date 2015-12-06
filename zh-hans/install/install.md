@@ -1,10 +1,9 @@
-# Linux 安装
+# 安装方法
 
 ## 安装镜像下载地址
 
 - [Linux Mint 17.2](http://www.linuxmint.com/edition.php?id=190)
 - [Ubuntu 15.10](http://releases.ubuntu.com/15.10/ubuntu-15.10-desktop-amd64.iso)
-- [Deepin 2014.3](http://cdimage.linuxdeepin.com/releases/2014.3/deepin_2014.3_amd64.iso)（对于Deepin的安装和使用方法可以略过以下内容，直接查看[官方百科](http://wiki.deepin.org/)，另外由于针对国人优化的原因，选择Deepin的中文版会比英文版更加易用且遇到更少的问题，但我们还是推荐动手能力强的朋友使用英文版）。
 
 ## 语言选择
 

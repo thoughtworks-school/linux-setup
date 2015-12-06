@@ -1,6 +1,8 @@
 # 安装 [uGet](http://ugetdm.com)
 
-## Linux Mint & Ubuntu & Deepin
+uGet 是一款 Linux 下支持多点下载和断线续传的下载工具。
+
+## Ubuntu & Linux Mint
 
 ```bash
 $ sudo apt-get update
