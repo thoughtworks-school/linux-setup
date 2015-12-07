@@ -2,7 +2,7 @@
 
 ## 安装镜像下载地址
 
-- [Linux Mint 17.2](http://www.linuxmint.com/edition.php?id=190)
+- [Linux Mint 17.3](http://www.linuxmint.com/edition.php?id=190)
 - [Ubuntu 15.10](http://releases.ubuntu.com/15.10/ubuntu-15.10-desktop-amd64.iso)
 
 ## 语言选择
