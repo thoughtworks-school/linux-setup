@@ -2,27 +2,25 @@
 
 Atom 是由 GitHub 开发的一款强大的开源文本编辑器，可以在不需要 IDE 的场合进行轻量级开发和文本编辑。
 
-## Ubuntu & Linux Mint
-
 ```bash
 $ sudo add-apt-repository ppa:webupd8team/atom
 $ sudo apt-get update
 $ sudo apt-get install atom
 ```
 
-### 安装 Atom 的扩展包
+## 安装 Atom 的扩展包
 
 ```bash
 $ apm install linter linter-jshint editorconfig atom-beautify
 ```
 
-### 设置同时支持中英文的等宽字体（推荐，可根据个人喜好调整）
+## 设置同时支持中英文的等宽字体（推荐，可根据个人喜好调整）
 
 菜单路径：`Edit` -> `Preferences` -> `Settings` -> `Editor Settings` -> `Font Family`
 
 填入字体名（需要使用之前在中文美化时安装的字体）：`Inziu Iosevka SC`
 
-### 设置显示格式
+## 设置显示格式
 
 菜单路径：`Edit` -> `Preferences` -> `Settings` -> `Editor Settings`
 

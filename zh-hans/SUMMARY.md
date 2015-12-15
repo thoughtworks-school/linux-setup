@@ -1,9 +1,9 @@
 # 目录
 
-- [安装 Linux](install/index.md)
+- [安装 Ubuntu](install/index.md)
   - [注意事项](install/notice.md)
   - [安装方法](install/install.md)
-- [设置 Linux](setup/index.md)
+- [设置 Ubuntu](setup/index.md)
   - [设置软件源并更新系统](setup/software-repository.md)
   - [配置鼠标或触摸版](setup/mouse-and-touchpad.md)
   - [安装中文输入法](setup/input-method.md)

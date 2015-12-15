@@ -6,12 +6,10 @@
 
 [申请学生免费序列号](https://www.jetbrains.com/student/)
 
-## Ubuntu & Linux Mint
-
-### 下载并安装 IntelliJ IDEA Ultimate Edition 编辑器
+## 下载并安装 IntelliJ IDEA Ultimate Edition 编辑器
 
 https://www.jetbrains.com/idea/download/
 
-### 在插件管理器中安装 IntelliJ IDEA Ultimate Edition 编辑器插件
+## 在插件管理器中安装 IntelliJ IDEA Ultimate Edition 编辑器插件
 - .ignore
 - NodeJS

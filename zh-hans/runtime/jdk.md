@@ -2,8 +2,6 @@
 
 方便不了解 Java SDK 安装配置的新手使用，老手可以无视。
 
-## Ubuntu & Linux Mint
-
 ```bash
 $ sudo add-apt-repository ppa:webupd8team/java
 $ sudo apt-get update
