@@ -25,23 +25,33 @@
 
 ### 双系统安装
 
-#### Windows 7/8/8.1
-
-**警告：本方法只适合 Windows 7/8/8.1，并且主板 BIOS 引导方式为 Legacy BIOS 或其兼容模式，如果 BIOS 引导方式为 UEFI 方式，请不要使用本方法安装，否则会有极大的几率安装失败甚至造成 Windows 系统也损坏。**
+#### MBR 硬盘分区表 + 以 Legacy BIOS 为引导方式的电脑
 
 0. **请使用移动硬盘或者其它稳妥可靠的移动设备备份现有系统中的全部重要数据！**
-0. 在Windows操作系统下，使用磁盘工具（推荐使用[EaseUS Partition Master Free](http://www.partition-tool.com/personal.htm)，安装时请仔细看清不要安装任何其捆绑的垃圾软件），在现有硬盘上划分出一个主分区（建议不要小于20GB，推荐60GB）和一个逻辑分区（与电脑内存大小一致）;
-0. 使用 [EasyBCD](http://neosmart.net/EasyBCD/) 新建一个与安装的Linux发行版同名（比如 Linux Mint 或者 Ubuntu）的GRUB2引导项目，并将其位置指定在刚刚新划分出的主分区上；
-0. 使用制作好的USB启动盘引导计算机，在安装向导中选择手动硬盘划分，选择新划分出的主分区，选择格式化为Ext4格式，并将```/```根目录指定到该分区上；
-0. 选择新划分出的逻辑分区，并制定该分区为Swap分区；
-0. 将引导分区盘符指定为新划分出的主分区（**这一步非常重要，切记！**）；
-0. 按照安装向导完成后续安装步骤。
+0. 将 BOIS 引导方式选为 Legacy Only。
+0. 在Windows操作系统下，使用磁盘工具（推荐使用[EaseUS Partition Master Free](http://www.partition-tool.com/personal.htm)，安装时请仔细看清不要安装任何其捆绑的垃圾软件），在现有硬盘上划分出一个主分区（建议不要小于20GB，推荐60GB）和一个逻辑分区（2GB）;
+0. **以 Linux 为双系统引导入口的安装方法（推荐）：**
+  0. 使用制作好的USB启动盘引导计算机，在安装向导的安装方式选择截面中，选择 Something else 手动划分硬盘分区，选择新划分出的主分区，选择格式化为Ext4格式，并将```/```根目录指定到该分区上；
+  0. 选择新划分出的逻辑分区，并指定该分区为Swap分区；
+  0. 按照安装向导完成后续安装步骤。
+0. **以 Windows 为双系统引导入口的安装方法：**
+  0. 使用 [EasyBCD](http://neosmart.net/EasyBCD/) 新建一个与安装的Linux发行版同名（比如 Linux Mint 或者 Ubuntu）的GRUB2引导项目，并将其位置指定在刚刚新划分出的主分区上；
+  0. 使用制作好的USB启动盘引导计算机，在安装向导的安装方式选择截面中，选择 Something else 手动划分硬盘分区，选择新划分出的主分区，选择格式化为Ext4格式，并将```/```根目录指定到该分区上；
+  0. 选择新划分出的逻辑分区，并指定该分区为Swap分区；
+  0. 将引导分区盘符指定为新划分出的主分区（**这一步非常重要，切记！**）；
+  0. 按照安装向导完成后续安装步骤。
 
-#### Windows 10 / UEFI 引导 / 其它各种疑难杂症
+#### GPT 硬盘分区表 + 以 UEFI 为引导方式的电脑
 
-0. [参考资料1](https://help.ubuntu.com/community/UEFI)
-0. [参考资料2](http://www.zhihu.com/question/34611974/answer/60032471)
-0. [参考资料3](http://forum.ubuntu.org.cn/viewtopic.php?f=77&t=467746)
-0. 使用最新的 Ubuntu 正式版本可能会解决问题
-0. 如果想不明白，请立刻寻找Linux高手
-0. 如果能想明白，请发挥自己的折腾精神
+**常见于预装 Windows 8.1 / Windows 10 的电脑**
+
+0. **请使用移动硬盘或者其它稳妥可靠的移动设备备份现有系统中的全部重要数据！**
+0. 关闭 Windows 8.1 / Windows 10 中的快速启动功能：[查看关闭方法](http://jingyan.baidu.com/article/ca00d56c7a40e6e99febcf4f.html)
+0. 关闭 BIOS 中的 Secure Boot 功能
+0. 关闭 BIOS 中的 QuickBoot/FastBoot，Intel Smart Response Technology (SRT)，Fast Startup 功能（有的话就关掉，没有的话就可以不用管）。
+0. 将 BOIS 引导方式选为 UEFI Only，其他硬件或者输入设备启动方式使用 Legacy 方式或者保持不变。
+0. 在Windows操作系统下，使用磁盘工具（推荐使用[EaseUS Partition Master Free](http://www.partition-tool.com/personal.htm)，安装时请仔细看清不要安装任何其捆绑的垃圾软件），在现有硬盘上划分出一个较大的分区（建议不要小于20GB，推荐60GB）和一个较小的分区（2GB）;
+0. **以 Linux 为双系统引导入口的安装方法（目前唯一问题最少的方式）：**
+  0. 使用制作好的USB启动盘引导计算机，在安装向导的安装方式选择截面中，选择 Something else 手动划分硬盘分区，选择新划分出的较大的分区，选择格式化为Ext4格式，并将```/```根目录指定到该分区上；
+  0. 选择新划分出的较小的分区，并指定该分区为Swap分区；
+  0. 按照安装向导完成后续安装步骤。
