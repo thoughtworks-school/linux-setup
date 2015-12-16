@@ -4,7 +4,7 @@ XMind 是当前最为流行且强大的跨平台思维导图工具，学习和�
 
 下载 XMind 安装包：
 
-http://www.xmind.net/download/setup/
+http://www.xmind.net/download/linux/
 
 如在启动时遇到依赖包安装错误，请运行如下命令完成安装：
 

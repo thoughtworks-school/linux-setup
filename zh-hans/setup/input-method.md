@@ -23,6 +23,8 @@ $ sudo apt-get install ibus-libpinyin
 
 下载64位的搜狗输入法 Linux 版：
 
+**注意：只下载就好，不要按照官网说明安装。**
+
 [前往官网下载](http://pinyin.sogou.com/linux/)
 
 双击下载下来的 deb 安装文件进行安装。

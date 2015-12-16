@@ -11,7 +11,7 @@ $ sudo apt-get install atom
 ## 安装 Atom 的扩展包
 
 ```bash
-$ apm install linter linter-jshint editorconfig atom-beautify
+$ apm install linter editorconfig atom-beautify
 ```
 
 ## 设置同时支持中英文的等宽字体（推荐，可根据个人喜好调整）
