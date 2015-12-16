@@ -47,7 +47,7 @@
 0. **请使用移动硬盘或者其它稳妥可靠的移动设备备份现有系统中的全部重要数据！**
 0. 关闭 Windows 8.1 / Windows 10 中的快速启动功能：[查看关闭方法](http://jingyan.baidu.com/article/ca00d56c7a40e6e99febcf4f.html)
 0. 关闭 BIOS 中的 Secure Boot 功能
-0. 关闭 BIOS 中的 QuickBoot/FastBoot，Intel Smart Response Technology (SRT)，Fast Startup 功能（有的话就关掉，没有的话就可以不用管）。
+0. 关闭 BIOS 中的 QuickBoot/FastBoot，Intel Smart Response Technology (SRT)，Fast Startup，CSM支持功能（有的话就关掉，没有的话就可以不用管）。
 0. 将 BOIS 引导方式选为 UEFI Only，其他硬件或者输入设备启动方式使用 Legacy 方式或者保持不变。
 0. 在Windows操作系统下，使用磁盘工具（推荐使用[EaseUS Partition Master Free](http://www.partition-tool.com/personal.htm)，安装时请仔细看清不要安装任何其捆绑的垃圾软件），在现有硬盘上划分出一个较大的分区（建议不要小于20GB，推荐60GB）和一个较小的分区（2GB）;
 0. **以 Linux 为双系统引导入口的安装方法（目前唯一问题最少的方式）：**
