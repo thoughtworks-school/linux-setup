@@ -8,12 +8,6 @@ $ sudo apt-get update
 $ sudo apt-get install atom
 ```
 
-## 安装 Atom 的扩展包
-
-```bash
-$ apm install linter editorconfig atom-beautify
-```
-
 ## 设置同时支持中英文的等宽字体（推荐，可根据个人喜好调整）
 
 菜单路径：`Edit` -> `Preferences` -> `Settings` -> `Editor Settings` -> `Font Family`
