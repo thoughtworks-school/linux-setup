@@ -6,9 +6,7 @@
 
 [申请学生免费序列号](https://www.jetbrains.com/student/)
 
-## 下载并安装 WebStorm 编辑器
+## 下载 WebStorm 编辑器
 
 https://www.jetbrains.com/webstorm/
 
-## 在插件管理器中安装 WebStorm 编辑器插件
-- .ignore
