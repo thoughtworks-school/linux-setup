@@ -20,7 +20,7 @@
   - [安装 build-essential](dev-tools/build-essential.md)
   - [安装 Zeal](dev-tools/zeal.md)
 - [安装必备运行环境](runtime/index.md)
-  - [安装 Oracle JDK 8](runtime/jdk.md)
+  - [安装 Open JDK 8](runtime/jdk.md)
 - [安装编辑器](editor/index.md)
   - [安装 Atom 文本编辑器](editor/atom.md)
   - [安装 WebStorm 集成开发环境](editor/webstorm.md)
