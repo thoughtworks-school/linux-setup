@@ -6,7 +6,7 @@
 
 [申请学生免费序列号](https://www.jetbrains.com/student/)
 
-## 下载 WebStorm 编辑器
+## 下载 WebStorm 编辑器（压缩包）
 
-https://www.jetbrains.com/webstorm/
+https://www.jetbrains.com/webstorm/download/
 
