@@ -1,6 +1,6 @@
 # 安装 build-essential
 
-## Linux Mint & Ubuntu & Deepin
+软件编译工具集，用于以后从源代码编译和安装软件。
 
 ```bash
 $ sudo apt-get update
