@@ -5,13 +5,13 @@
 ## 安装 VLC media player
 
 ```bash
-$ sudo apt-get install vlc
+$ sudo apt install vlc
 ```
 
 ## 安装 SMPlayer
 
 ```bash
 $ sudo add-apt-repository ppa:rvm/smplayer
-$ sudo apt-get update
-$ sudo apt-get install smplayer smplayer-themes smplayer-skins
+$ sudo apt update
+$ sudo apt install smplayer smplayer-themes smplayer-skins
 ```
