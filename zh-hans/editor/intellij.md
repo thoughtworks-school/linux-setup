@@ -6,7 +6,7 @@
 
 [申请学生免费序列号](https://www.jetbrains.com/student/)
 
-## 下载 IntelliJ IDEA Ultimate Edition 编辑器（压缩包）
+## 下载 IntelliJ IDEA Ultimate Edition 编辑器
 
 https://www.jetbrains.com/idea/download/
 

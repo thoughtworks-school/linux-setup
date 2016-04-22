@@ -6,7 +6,11 @@
 
 [申请学生免费序列号](https://www.jetbrains.com/student/)
 
-## 下载 WebStorm 编辑器（压缩包）
+## 下载 WebStorm 编辑器
 
 https://www.jetbrains.com/webstorm/download/
 
+## 运行方法
+
+- 解压下载下来的 .tar.gz 压缩文件夹到任意位置
+- 在解压后的 bin 子目录下运行 idea.sh 文件启动

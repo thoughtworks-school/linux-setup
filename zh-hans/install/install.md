@@ -2,11 +2,11 @@
 
 ## 安装镜像下载地址
 
-- [Ubuntu 15.10](http://releases.ubuntu.com/15.10/ubuntu-15.10-desktop-amd64.iso)
+- [Ubuntu 16.04 LTS](http://releases.ubuntu.com/16.04/ubuntu-16.04-desktop-amd64.iso)
 
 ## 语言选择
 
-- 为了学习质量和便于适应英文工作环境，请在安装时务必选择英文（美国）版本。
+- 为了开发效率、学习质量和便于适应英文工作环境，请在安装时务必选择英文（美国）版本。
 
 ## 制作USB启动盘
 
