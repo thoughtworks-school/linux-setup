@@ -1,3 +1,8 @@
 # 安装 Open JDK 8
 
-Ubuntu 16.04 已经默认内置了 Open JDK 8 版本，不需要手动安装。
+方便不了解 Java SDK 安装配置的新手使用，老手可以无视。
+
+```bash
+$ sudo apt-get update
+$ sudo apt-get install openjdk-8-jdk
+```
