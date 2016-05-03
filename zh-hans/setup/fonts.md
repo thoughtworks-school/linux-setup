@@ -9,12 +9,17 @@ Ubuntu 本身所带的字体十分有限，不能很好的满足日常的显示�
 ### 下载
 
 - [Windows 字体文件压缩包](http://pan.baidu.com/s/1o85shPg)
+- [字体配置文件](http://pan.baidu.com/s/1bJEc3O)
 
 ### 安装
 
 将下载的 `ms-fonts.tar.gz` 压缩包中的全部文件解压，将解压后得到的内容剪切 `Ctrl + X` 并粘贴 `Ctrl + V` 至（如果是使用复制粘贴，可能会造成 Ubuntu 卡住，不过不用担心，等待完成就好）文件浏览器 Home 目录下名为 `.fonts` 的文件夹下（需要手动创建，`.fonts` 在创建后是隐藏文件夹，可以在文件浏览窗口中按快捷键 Ctrl + H 显示出来）。
 
 ## 优化中文显示
+
+### 优化系统默认字体配置
+
+将下载的 .fonts.conf 文件放置在 Home 目录下，注意，使用 Firefox 下载该文件会导致该文件被重命名为 fonts.conf，我们需要将其重新改为 .fonts.conf（ .fonts.conf 是一个隐藏文件，可以在文件浏览窗口中按快捷键 Ctrl + H 显示出来）。
 
 ### 优化浏览器默认显示字体
 
