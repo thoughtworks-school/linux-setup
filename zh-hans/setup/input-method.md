@@ -7,8 +7,8 @@
 ## IBus 输入法框架 + Intelligent Pinyin 输入法
 
 ```bash
-$ sudo apt update
-$ sudo apt install ibus-libpinyin
+sudo apt update
+sudo apt install ibus-libpinyin
 ```
 
 确认在 Language Support 中将 Keyboard input method system 选择为 IBus 输入法框架。
