@@ -51,7 +51,7 @@
 0. 关闭 BIOS 中的 Secure Boot 功能
 0. 关闭 BIOS 中的 QuickBoot/FastBoot，Intel Smart Response Technology (SRT)，Fast Startup，CSM支持功能（有的话就关掉，没有的话就可以不用管）。
 0. 将 BOIS 引导方式选为 UEFI Only，其他硬件或者输入设备启动方式使用 Legacy 方式或者保持不变。
-0. 在Windows操作系统下，使用磁盘工具（推荐使用[EaseUS Partition Master Free](http://www.partition-tool.com/personal.htm)，安装时请仔细看清不要安装任何其捆绑的垃圾软件），在现有硬盘上调整出不少于40GB的干净硬盘空间（不要分区），同时还要确保硬盘上除 Windows 系统分区这一个主分区以外，其他都是逻辑分区（可用工具转换主分区为逻辑分区）;
+0. 在Windows操作系统下，使用磁盘工具（推荐使用[EaseUS Partition Master Free](http://www.partition-tool.com/personal.htm)，安装时请仔细看清不要安装任何其捆绑的垃圾软件），在现有硬盘上调整出不少于40GB的干净硬盘空间（不要分区）;
 0. **以 Linux 为双系统引导入口的安装方法（目前唯一问题最少的方式）：**
   0. 使用制作好的USB启动盘引导计算机，在安装向导的安装方式选择截面中，选择 Something else 手动划分硬盘分区；
   0. 选择调整出的未使用磁盘空间，创建分区，创建时选择类型为 Logical（逻辑分区），并指定该分区为Swap分区；
