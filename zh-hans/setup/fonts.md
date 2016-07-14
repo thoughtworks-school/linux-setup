@@ -39,4 +39,4 @@ Ubuntu 本身所带的字体十分有限，不能很好的满足日常的显示�
 0. 将 Serif font 修改为 Serif
 0. 将 Sans-serif font 修改为 Sans
 0. 确保 Fixed-width font 选择为 Monospace
-0. 点击 OK 按钮完成设置。
+0. 点击 Done 按钮完成设置。
