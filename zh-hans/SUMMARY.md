@@ -24,5 +24,5 @@
   - [安装 Open JDK 8](runtime/jdk.md)
 - [安装编辑器](editor/index.md)
   - [安装 Visual Studio Code 文本编辑器](editor/vscode.md)
-  - [安装 WebStorm 文本编辑器](editor/webstorm.md)
+  - [安装 WebStorm 集成开发环境](editor/webstorm.md)
   - [安装 Intellij IDEA 集成开发环境](editor/intellij.md)
