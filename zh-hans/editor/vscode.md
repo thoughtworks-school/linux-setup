@@ -4,7 +4,7 @@ Visual Studio Code 是由微软公司基于 Atom 文本编辑器开发的一款�
 
 前往 Visual Studio Code 官方网站下载 64 位 Linux 安装包：
 
-https://code.visualstudio.com/Download
+https://code.visualstudio.com/download
 
 安装说明请看：
 
