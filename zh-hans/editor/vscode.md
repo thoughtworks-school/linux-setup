@@ -8,4 +8,4 @@ https://code.visualstudio.com/Download
 
 安装说明请看：
 
-https://code.visualstudio.com/docs/editor/setup#_linux
+https://code.visualstudio.com/docs/setup/linux
