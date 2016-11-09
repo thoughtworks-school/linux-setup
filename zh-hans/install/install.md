@@ -2,7 +2,7 @@
 
 ## 安装镜像下载地址
 
-- [Ubuntu 16.04.1 LTS](http://releases.ubuntu.com/16.04/ubuntu-16.04.1-desktop-amd64.iso)
+- [Ubuntu 16.10](http://releases.ubuntu.com/16.10/ubuntu-16.10-desktop-amd64.iso)
 
 ## 语言选择
 
