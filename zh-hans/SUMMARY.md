@@ -12,6 +12,7 @@
   - [安装 Chrome 浏览器](tools/chrome.md)
   - [安装 Flash 插件（不推荐）](tools/flash.md)
   - [安装 XMind](tools/xmind.md)
+  - [安装 CmapTools](tools/cmaptools.md)
   - [安装 Skype](tools/skype.md)
   - [安装 uGet](tools/uget.md)
   - [安装媒体播放器](tools/player.md)

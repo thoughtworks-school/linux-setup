@@ -1,11 +1,16 @@
-# Linux 新手指南
+# Linux 安装配置指南
 
-用于 ThoughtWorks® School 教学实践。
+![](../gitbook/images/logo.png)
+
+用于“思特沃克学院 (ThoughtWorks® School)”教学实践。
 
 ### 更新记录
 
+> 2017 年 02 月 21 日
+> - 根据教学需要，加入概念图工具 [CmapTools](http://cmap.ihmc.us/cmaptools/) 安装运行方法一节。
+
 > 2016 年 12 月 27 日
-> - 思沃学院英文名改名叫 ThoughtWorks® School 了！
+> - 思特沃克学院英文名改名叫 ThoughtWorks® School 了！
 > - 更新 USB 安装盘制作工具为官方推荐的 [Rufus](https://rufus.akeo.ie/?locale=zh_CN)
 > - 简化并细化系统引导和安装流程。
 > - 由于 Chrome 的安装很可能需要翻墙，所以在 Chrome 一节加入了替代品 Chromium 的安装方法。
