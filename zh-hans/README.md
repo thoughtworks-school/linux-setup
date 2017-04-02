@@ -6,6 +6,9 @@
 
 ### 更新记录
 
+> 2017 年 04 月 02 日
+> - 改用 JetBrains Toolbox 工具统一安装和维护其旗下的开发工具，合并 WebStorm 和 Intellij IDEA 的安装部分。
+
 > 2017 年 03 月 04 日
 > - 微软为 Visual Studio Code 提供了官方包管理器源，现在可以用包管理器将 Visual Studio Code 更新至最新版本了，对应章节中用包管理器安装方法代替了之前下载二进制安装包的安装方法。
 
