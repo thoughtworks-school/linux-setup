@@ -11,6 +11,6 @@ echo "deb [arch=amd64] https://repo.skype.com/deb stable main" | sudo tee /etc/a
 ```
 
 ```bash
-sudo apt-get update
-sudo apt-get install skypeforlinux
+sudo apt update
+sudo apt install skypeforlinux
 ```

@@ -4,4 +4,4 @@ XMind 是当前最为流行且强大的跨平台思维导图工具，学习和�
 
 下载 64 位 deb 安装包：
 
-http://www.xmind.net/download/linux/
+http://www.xmind.net/xmind/downloads/xmind-7.5-update1-linux_amd64.deb
