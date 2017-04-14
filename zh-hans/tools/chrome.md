@@ -3,16 +3,9 @@
 Chrome 已经成为除 IE 以外，市场占有率最高，跨平台，“开发人员必备的”浏览器，所以是未来网页浏览和 Web 开发的必备工具，如果你擅长翻墙，请优先安装此版本。
 
 ```bash
-wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
-```
-
-```bash
-sudo sh -c 'echo "deb http://dl.google.com/linux/chrome/deb/ stable main" > /etc/apt/sources.list.d/google-chrome.list'
-```
-
-```bash
-sudo apt update
-sudo apt install google-chrome-stable
+wget -O ~/Downloads/google-chrome-stable_current_amd64.deb https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo dpkg -i ~/Downloads/google-chrome-stable_current_amd64.deb
+sudo apt install -f
 ```
 
 ## 替代品：安装 Chromium 浏览器

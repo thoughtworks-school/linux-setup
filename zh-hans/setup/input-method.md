@@ -13,8 +13,6 @@ sudo apt install ibus-libpinyin
 
 确认在 Language Support 中将 Keyboard input method system 选择为 IBus 输入法框架。
 
-注销当前用户并重新登录，在 Text Entry 中添加 Intelligent Pinyin 输入法。
+重新启动操作系统，然后在 Text Entry 中添加 Intelligent Pinyin 输入法。
 
-在 Text Entry 界面的输入法列表中选中 Intelligent Pinyin 项，然后点击列表下方的工具按钮打开输入法设置界面，在 Pinyin mode 选项卡中取消勾选 Enable correct pinyin，这个选项会令输入法行为变得非常古怪。
-
-成功后按 Windows徽标键 + 空格键 切换中英文输入法。
+再次重新启动，成功后按 Windows徽标键 + 空格键 切换中英文输入法。
